@@ -4,7 +4,6 @@
 This project contains the code for solving various tasks related to robotics, including picking and placing objects using a robotic arm.
 
 ## Authors
-- * team 4 *
 - **Huijuan Ma**: Contributed to the implementation of task 1, task 2 and task 3.
 - **Shiqi Wang**: Contributed to the implementation of task 3.
 - **Zimu Xiao**: Contributed to the implementation of task 2 and task 3.
@@ -33,13 +32,13 @@ To run the package, execute the following commands:
   
 ### Task 2
 - **Total Time**: 6 hours
-  - **Huijuan Ma**: 50%
-  - **Zimu Xiao**: 50%
+  - **Huijuan Ma**: 40%
+  - **Zimu Xiao**: 60%
 
 ### Task 3
 - **Total Time**: 50 hours
-  - **Huijuan Ma**: 70%
-  - **Shiqi Wang**: 20%
+  - **Huijuan Ma**: 60%
+  - **Shiqi Wang**: 30%
   - **Zimu Xiao**: 10%
 
 
