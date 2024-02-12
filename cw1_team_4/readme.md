@@ -9,6 +9,10 @@ This project contains the code for solving various tasks related to robotics, in
 - **Zimu Xiao**: Contributed to the implementation of task 2 and task 3.
 
 ## Build and Run Instructions
+0. git clone an auxiliary Function Package: 
+    ```
+    git submodule add https://github.com/COMP0129-UCL/cw1_world_spawner.git
+    ```
 To build the package, follow these steps:
 1. Use Catkin to build the package:
     ```bash
