@@ -1,8 +1,3 @@
-/* feel free to change any part of this file, or delete this file. In general,
-you can do whatever you want with this template code, including deleting it all
-and starting from scratch. The only requirment is to make sure your entire 
-solution is contained within the cw1_team_<your_team_number> package */
-
 #include <cw1_class.h>
 
 int main(int argc, char **argv){
